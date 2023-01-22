@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    justify-content: space-between;
+    background-color: #dfe1e5;
+}
+
