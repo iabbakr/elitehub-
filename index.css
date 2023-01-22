@@ -10,4 +10,8 @@ header{
     row-gap: 10px;
     background-color: #dfe1e5;
 }
+#logo{
+    width: 100px;
+    height: 100px;
+}
 
