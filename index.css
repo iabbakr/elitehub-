@@ -5,8 +5,8 @@ body{
 header{
     display: flex;
     flex-direction: row;
+    padding: 10px;
     justify-content: space-between;
-    row-gap: 10px;
     background-color: #dfe1e5;
 }
 #logo{
